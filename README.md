@@ -148,10 +148,48 @@
         <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="VsCode" />
       <br>Linux
     </td>
-    
 
-    
-    
+ </tr>
+
+  <tr>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nginx" width="40" height="40" alt="Nodejs" />
+      <br>Nginx
+      </td>
+      </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=npm" width="40" height="40" alt="VsCode" />
+      <br>NPM
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=pnpm" width="40" height="40" alt="VsCode" />
+      <br>Pnpm
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=pinia" width="40" height="40" alt="VsCode" />
+      <br>Pinia
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=rollupjs" width="40" height="40" alt="VsCode" />
+      <br>Rollup
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40" alt="VsCode" />
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=gitlab" width="40" height="40" alt="VsCode" />
+      <br>Gitlab
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=go" width="40" height="40" alt="VsCode" />
+      <br>Go
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="VsCode" />
+      <br>Linux
+    </td>
+
  </tr>
 </table>
 <br><br>
