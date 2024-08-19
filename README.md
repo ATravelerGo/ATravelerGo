@@ -144,6 +144,10 @@
         <img src="https://skillicons.dev/icons?i=go" width="40" height="40" alt="VsCode" />
       <br>Go
     </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="VsCode" />
+      <br>Linux
+    </td>
     
 
     
