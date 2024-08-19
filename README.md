@@ -45,12 +45,12 @@
 
   
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrohitofficial&theme=gotham&layout=compact"width="40%"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATravelerGo&theme=gotham&layout=compact"width="40%"/> 
 </p>
 
 <p align="center">
-<a href="https://github.com/jrohitofficial?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=jrohitofficial&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@jrohitofficial's github-readme-stats"/></a>
-<a href="https://github.com/jrohitofficial?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=jrohitofficial&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
+<a href="https://github.com/ATravelerGo?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=ATravelerGo&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@ATravelerGo's github-readme-stats"/></a>
+<a href="https://github.com/ATravelerGo?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=ATravelerGo&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@ATravelerGo's github-readme-streak-stats"/></a>
 </p>
 
 
