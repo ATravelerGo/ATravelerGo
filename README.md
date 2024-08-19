@@ -10,8 +10,12 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p align="center">
+     <img src="https://count.getloli.com/get/@ATravelerGo" alt="gelboru-h" />
+</p>
+<p align="center">
      <img alt="Coding" width="800" src="https://github-widgetbox.vercel.app/api/profile?username=ATravelerGo&data=followers,repositories,stars,commits">
 </p>
+
 
 <p align="center"><a href="https://github.com/jrohitofficial"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
 
