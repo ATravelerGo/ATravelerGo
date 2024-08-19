@@ -132,6 +132,10 @@
         <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="VsCode" />
       <br>Docker
     </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40" alt="VsCode" />
+      <br>Flutter
+    </td>
 
     
     
