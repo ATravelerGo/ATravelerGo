@@ -244,7 +244,7 @@
 ####
 <br clear="both">
 <p align="center">🅰🅲🆃🅸🆅🅸🆃🅸🅴🆂</p>
-  待补充哦
+ 
  </p>
 
 
@@ -263,11 +263,7 @@
 <br />
 
 
-<div align="center">
-    
-###### @2024 [BisKIRAN TECHNOLOGIES](http://biskirantechnologies.great-site.net/?i=1), Inc. All rights reserved
 
-</div>
 
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/line-neon.gif" width="100%"> 
