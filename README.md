@@ -189,7 +189,7 @@
 
 <!-- activity graph heroku-app start -->
 <p align="center">
-    <a href="https://jrohit.com.np/">
+    <a href="#">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=ATravelerGo&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
     </a>
 </p>
