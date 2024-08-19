@@ -8,10 +8,10 @@
         <p align="center">
     <img alt="Coding" width="200" src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47czcc532765ws5oumsyflmrr3l84ahc8wpu2orb87&ep=v1_gifs_related&rid=giphy.gif&ct=s">
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adjust the number of non-breaking spaces as needed -->
-    <a href="http://jrohit.com.np" target="_blank">
-        <img src="https://github-widgetbox.vercel.app/api/profile?username=jrohitofficial&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
-    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
+     <img alt="Coding" width="800" src="https://github-widgetbox.vercel.app/api/profile?username=ATravelerGo&data=followers,repositories,stars,commits">
+</p>
 
 <p align="center"><a href="https://github.com/jrohitofficial"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
 
@@ -19,26 +19,11 @@
 
 <p align="center"><a href="https://github.com/jrohitofficial"><img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p>                                                                    
 
-<img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&amp;color=ff0000&amp;size=15&amp;lines=¦+રોહિત+¦&&%20Code&center=true&width=440&height=18&vCenter=true&pause=1000&size=12" />
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&amp;color=ff0000&amp;size=15&amp;lines=।।+तप+त्याग+तांडव+।।&&%20Code&center=true&width=440&height=18&vCenter=true&pause=1000&size=15" />
-
-
-<a href="https://github.com/jrohitofficial/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE%20(AI);PROGRAMMER%20;YOUTUBER%20;EXPERIENCED%20UI%2FUX%20DESIGNER;3%2B%20YEAR's%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
-</a>
-
-<!--
-<a href="https://jrohit.com.np">
-    <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/Final.png" alt="Clickable Image">
-</a> 
--->
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
-
-  <!-- Typing SVG by jrohitofficial - https://github.com/jrohitofficial/readme-typing-svg -->
 </p>
 
 ###
