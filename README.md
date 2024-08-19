@@ -26,7 +26,7 @@
 
 
 
-<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
+
 
 </p>
 
