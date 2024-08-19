@@ -136,6 +136,15 @@
         <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40" alt="VsCode" />
       <br>Flutter
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=gitlab" width="40" height="40" alt="VsCode" />
+      <br>Gitlab
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=go" width="40" height="40" alt="VsCode" />
+      <br>Go
+    </td>
+    
 
     
     
