@@ -7,7 +7,7 @@
 <p align="center">
  
    
-       <img align="center" src="https://count.getloli.com/get/@:ATravelerGo" alt=":ATravelerGo" />
+   <img src="https://count.getloli.com/get/@:ATravelerGo " alt="gelbooru-h" />
    
 
  🔭 🌱  👯 🤔  💬  📫  😄  ⚡ 
