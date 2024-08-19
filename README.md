@@ -120,6 +120,21 @@
         <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
       <br>VsCode
     </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=babel" width="40" height="40" alt="VsCode" />
+      <br>Babel
+    </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dart" width="40" height="40" alt="VsCode" />
+      <br>Dart
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="VsCode" />
+      <br>Docker
+    </td>
+
+    
+    
  </tr>
 </table>
 <br><br>
