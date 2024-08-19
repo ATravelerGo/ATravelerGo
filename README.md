@@ -35,32 +35,14 @@
   🅒🅞🅝🅝🅔🅒🅣 🅦🅘🅣🅗 🅜🅔
    </p>
 <p align="center">
-  <!--
-<a href="https://www.buymeacoffee.com/jrohitofficial_" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
-<a href="https://discord.com/users/jrohitofficial_#1528" target="_blank"><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
-<a href="https://jrohit.com.np" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://twitter.com/jrohitofficial_" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://linkedin.com/in/jrohitofficial" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://instagram.com/jrohitofficial_" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
-<a href="https://facebook.com/jrohitofficial" target="_blank"><img alt="" src="https://img.shields.io/badge/facebook-000?style=for-the-badge&logo=facebook&logoColor=3b5998" style="vertical-align:center" /></a>
-<a href="https://replit.com/@jrohitofficial" target="_blank"><img alt="" src="https://img.shields.io/badge/replit-000?style=for-the-badge&logo=replit&logoColor=FFA500" style="vertical-align:center" /></a>
-<a href="https://codepen.io/jrohitofficial_" target="_blank"><img alt="" src="https://img.shields.io/badge/codepen-000?style=for-the-badge&logo=codepen&logoColor=FFFFFF" style="vertical-align:center" /></a>
-<a href="https://www.youtube.com/@BisKIRANVLOG" target="_blank"><img alt="" src="https://img.shields.io/badge/YouTube%20-000?style=for-the-badge&logo=youtube&logoColor=red" style="vertical-align:center" /></a>
-  -->
 <a href="mailto:xiaokeai1833103@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" style="vertical-align:center" /></a>
 </p>
 
 
-### 
-<p align="center"> 
- 🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
-  <img src="https://profile-counter.glitch.me/jrohitofficial/count.svg"/>
-  </p>
 
 
-<p align="center"> 
-<img align="center" width="500px" src="@/../page-insights.svg" alt="Github Insight"/>
-</p>  
+
+
   
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrohitofficial&theme=gotham&layout=compact"width="40%"/> 
