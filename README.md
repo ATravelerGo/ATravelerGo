@@ -177,6 +177,14 @@
         <img src="https://skillicons.dev/icons?i=sass" width="40" height="40" alt="VsCode" />
       <br>Sass
     </td>
+
+     <td align="center" width="96">
+       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" height="40" alt="VsCode" />
+      <br>C++
+    </td>
+    
+
+    
  </tr>
 </table>
 <br><br>
