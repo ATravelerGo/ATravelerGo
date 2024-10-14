@@ -79,10 +79,6 @@
       <br>JavaScript
     </td>
 
-     <td align="center" width="96">
-       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="40" height="40" /> 
-      <br>JavaScript
-    </td>
  
     
     <td align="center" width="96">
