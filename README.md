@@ -179,7 +179,7 @@
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nestjs" width="40" height="40" alt="VsCode" />
-      <br>Sass
+      <br>NestJS
     </td>
       <td align="center" width="96">
        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" height="40" alt="VsCode" />
